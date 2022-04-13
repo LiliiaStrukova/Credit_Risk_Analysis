@@ -24,7 +24,7 @@ There are several strategies to deal with dataset; below are the results of 6 di
 
         ![ros_balanced_accuracy_score](Resources/ros_balanced_accuracy_score.png)
 
-    - Precision (pre) is very high but for low-risk loans while for loans with high risk it is only 1%. Recall (rec), or sensitivity, is almost on the same level for both categories, but still not that high - 62% for high-risk and 68% for low-risk:
+    - Precision (pre) is very high but for low-risk loans while for loans with high risk it is only 1%. Recall (rec), or sensitivity, is almost on the same level for both categories, but still not that high - 68% for high-risk and 62% for low-risk:
 
         ![ros_classification_report](Resources/ros_classification_report.png)
 
